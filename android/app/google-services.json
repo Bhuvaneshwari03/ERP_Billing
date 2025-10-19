@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074364057068",
+    "project_id": "erp-billing-app",
+    "storage_bucket": "erp-billing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074364057068:android:441b59e4d560366a306cc9",
+        "android_client_info": {
+          "package_name": "com.example.erp_billing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8iOWsEQxz-kGwmIzu8mk8MnBiDPvSsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
