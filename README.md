@@ -1,4 +1,4 @@
-# erp_billing_app
+# ERP Billing
 
 A new Flutter project.
 
